@@ -1,6 +1,6 @@
 **Disease Symptom Clustering System:**
 
-**Using this link, we can access Disease_Symptom app:- https://we56wbfgt6gm4hsjec2rse.streamlit.app/**
+**Using this link, we can access Disease_Symptom app:- https://diseasesymptom.vercel.app/**
 
 This project presents an intelligent clustering-based approach to analyzing and understanding disease symptoms using **unsupervised machine learning**. Designed as part of a medical support system, this model identifies **hidden patterns** among symptoms that may indicate similar or related diseases—empowering early diagnosis, enhancing decision-making, and reducing diagnostic time in real-world healthcare systems.
 
