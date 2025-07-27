@@ -14,20 +14,24 @@ This project presents an intelligent clustering-based approach to analyzing and 
 
 📊 Dataset Information:
 
-* **Dataset Name**: `Symptom-severity.csv`
-* 
-* **Description**: A structured dataset containing over **130+ symptoms** mapped with corresponding **severity weights (1–5)**. This enables conversion of text-based medical symptom data into numerical form suitable for clustering.
-* 
-* **Application**: Used to simulate real-world patient symptom scenarios for modeling unsupervised clustering behavior.
+**Dataset Name**: `Symptom-severity.csv`
+
+**Description**: A structured dataset containing over **130+ symptoms** mapped with corresponding **severity weights (1–5)**. This enables conversion of text-based medical symptom data into numerical form suitable for clustering.
+
+ **Application**: Used to simulate real-world patient symptom scenarios for modeling unsupervised clustering behavior.
 
 ---
 
 🚀 Key Highlights:
 
 ✅ **Symptom Encoding** – Transforms categorical symptom names into numerical values based on severity.
+
 ✅ **Data Normalization** – Ensures uniformity in symptom weight scales for accurate clustering.
+
 ✅ **K-Means Clustering** – Groups symptom sets into disease-relevant clusters using Scikit-learn.
+
 ✅ **Elbow Method** – Determines the optimal number of clusters (k) based on distortion scores.
+
 ✅ **Cluster Visualization** – Leverages Matplotlib and Seaborn to present intuitive cluster insights.
 
 ---
